@@ -6,7 +6,7 @@ using namespace std;
 
 class Uzytkownicy{
 	
-	
+//Kuba to szef
 };
 
 class Administrator : public Uzytkownik{
