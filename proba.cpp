@@ -1,12 +1,16 @@
-//PROJEKT KACPER PLIŚ/JAKUB POPIELECKI
+//Programowanie obiektowe i inżyniera oprogramowania 
+//Kacper Pliś – 411619
+//Jakub Popielecki – 410321
+//Grupa projektowa nr 3
+
 #include <iostream>
 
 using namespace std;
 //obsługa wypożyczalni samochodów
 
 class Uzytkownicy{
-	
-//Kuba to szef
+
+
 };
 
 class Administrator : public Uzytkownik{
